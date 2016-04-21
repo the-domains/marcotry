@@ -1,0 +1,28 @@
+name: marcotry
+favicon: null
+layout_spectrum: 0.4791421932168305
+typography_spectrum: 0.17646696022711694
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5728612819220871
+  lightness: 0.727284989785403
+  saturation: 0.009926610859110951
+  rhythmicContrast: 0.025479098316282034
+purpose: []
